@@ -1,3 +1,0 @@
-"# OxidoTask" 
-"# Oxido" 
-"# Oxido" 

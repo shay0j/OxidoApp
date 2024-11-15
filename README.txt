@@ -15,6 +15,7 @@ Aplikacja automatycznie tworzy także podgląd wygenerowanego artykułu w formie
   
 ## Wymagania
 
+Poniższa instrukcja dotyczy systemu Windows.
 Aby uruchomić aplikację, musisz mieć zainstalowane następujące narzędzia:
 
 - Python 3.7 lub nowszy
@@ -30,7 +31,6 @@ Aby uruchomić aplikację, musisz mieć zainstalowane następujące narzędzia:
 
    Użyj poniższego polecenia, aby zainstalować wszystkie zależności:
 
-   ```bash
    pip install -r requirements.txt
 
 
